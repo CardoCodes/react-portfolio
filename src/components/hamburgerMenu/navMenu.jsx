@@ -21,6 +21,7 @@ const NavLink = styled(motion.li)`
   display: flex;
   align-items: center;
   cursor: pointer;
+  margin-top: 20px;
 
   a {
     text-decoration: none;
