@@ -16,7 +16,7 @@ const onHover = () =>{
             </HeroBg>
             <HeroContent>
                 <HeroH1>Hello, Im Cardo.</HeroH1>
-                <HeroP>A web <span>developer</span> and computer programer from Texas.</HeroP>
+                <HeroP>A web developer and computer programer from Texas.</HeroP>
                 <HeroBtnWrapper>
                     <Button to="contactme" onMouseEnter={onHover} onMouseLeave={onHover}>
                         About Me {hover ? <ArrowForward /> : <ArrowRight/>}

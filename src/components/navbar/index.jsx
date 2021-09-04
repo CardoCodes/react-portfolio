@@ -21,7 +21,6 @@ const CardoTitle = styled.div`
   color: #DF711B;
   font-size: 20px;
   font-weight: 600;
-  center: left;
   margin-top: 0px;
 
 `;
