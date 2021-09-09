@@ -118,7 +118,7 @@ export function NavMenu({ isOpen }) {
             },
           }}
         >
-          <img src="University.svg" alt="estate"></img>
+          <img src="university.svg" alt="university"></img>
           <a href="#">Education</a>
         </NavLink>
         <NavLink
